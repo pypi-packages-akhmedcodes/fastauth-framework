@@ -6,7 +6,7 @@
 [![Python](https://img.shields.io/pypi/pyversions/rapidauth?color=22d3ee&style=flat-square)](https://pypi.org/project/rapidauth/)
 [![Downloads](https://img.shields.io/pypi/dm/rapidauth?color=34d399&style=flat-square)](https://pypi.org/project/rapidauth/)
 [![License: MIT](https://img.shields.io/badge/license-MIT-fbbf24?style=flat-square)](LICENSE)
-[![Author](https://img.shields.io/badge/author-akhmedcodes-6366f1?style=flat-square)](https://beacons.ai/akhmedcodes)
+[![Author](https://img.shields.io/badge/author-aahmiy-6366f1?style=flat-square)](https://beacons.ai/aahmiy)
 
 RapidAuth is a **pure backend** authentication framework. Every endpoint returns JSON. Wire in one router and get a complete, production-grade auth system instantly. Your frontend (React, Vue, mobile app) talks to the API over HTTP.
 
@@ -919,10 +919,10 @@ curl -X POST http://localhost:8000/auth/reset-password/confirm \
 
 ## Author
 
-**akhmedcodes** — [beacons.ai/akhmedcodes](https://beacons.ai/akhmedcodes)
+**aahmiy** — [beacons.ai/aahmiy](https://beacons.ai/aahmiy)
 
 ---
 
 ## License
 
-MIT © akhmedcodes
+MIT © aahmiy
