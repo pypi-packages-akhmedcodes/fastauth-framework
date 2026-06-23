@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "rapidauth"
-version = "1.0.2"
+version = "1.0.3"
 description = "Professional plug-and-play authentication framework for FastAPI"
 readme = "README.md"
 license = "MIT"
@@ -54,7 +54,8 @@ dev = [
 ]
 
 [project.urls]
-Homepage       = "https://github.com/pypi-packages-aahmiy/rapidauth"
+Homepage       = "https://pypi-packages-aahmiy.github.io/rapidauth/"
+Documentation  = "https://pypi-packages-aahmiy.github.io/rapidauth/"
 Repository     = "https://github.com/pypi-packages-aahmiy/rapidauth"
 "Bug Tracker"  = "https://github.com/pypi-packages-aahmiy/rapidauth/issues"
 Author         = "https://beacons.ai/aahmiy"

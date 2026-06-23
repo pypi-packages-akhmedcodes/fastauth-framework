@@ -37,7 +37,7 @@ from rapidauth.schemas.auth import (
     UserBaseSchema,
 )
 
-__version__ = "1.0.2"
+__version__ = "1.0.3"
 __all__ = [
     "RapidAuth",
     # Decorators
