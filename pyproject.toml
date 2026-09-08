@@ -11,7 +11,7 @@ license = "MIT"
 requires-python = ">=3.10"
 keywords = ["fastapi", "auth", "jwt", "oauth", "authentication", "security", "rapidauth"]
 authors = [
-    {name = "aahmiy", email = "axmadjonqaxxorovc@gmail.com"},
+    {name = "qaxxorovxd", email = "axmadjonqaxxorovc@gmail.com"},
 ]
 classifiers = [
     "Programming Language :: Python :: 3",
@@ -54,11 +54,11 @@ dev = [
 ]
 
 [project.urls]
-Homepage       = "https://pypi-packages-aahmiy.github.io/rapidauth/"
-Documentation  = "https://pypi-packages-aahmiy.github.io/rapidauth/"
-Repository     = "https://github.com/pypi-packages-aahmiy/rapidauth"
-"Bug Tracker"  = "https://github.com/pypi-packages-aahmiy/rapidauth/issues"
-Author         = "https://beacons.ai/aahmiy"
+Homepage       = "https://pypi-packages-qaxxorovxd.github.io/rapidauth/"
+Documentation  = "https://pypi-packages-qaxxorovxd.github.io/rapidauth/"
+Repository     = "https://github.com/pypi-packages-qaxxorovxd/rapidauth"
+"Bug Tracker"  = "https://github.com/pypi-packages-qaxxorovxd/rapidauth/issues"
+Author         = "https://beacons.ai/qaxxorovxd"
 
 [project.scripts]
 rapidauth = "rapidauth.cli:main"
